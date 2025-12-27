@@ -1,1 +1,1 @@
-# Prikupljanje-i-predobrada-podataka-za-Masinsko-u-enje-
+# Prikupljanje-i-predobrada-podataka-za-Masinsko-ucenje-
